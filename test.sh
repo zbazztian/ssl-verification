@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 javac SSLPoke.java
 #jvm/jre/lib/security/cacerts
 certstore="$1"
